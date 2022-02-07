@@ -47,7 +47,7 @@ require([
 });
 
       const map = new Map({
-        basemap: "gray",
+        basemap: "osm",
         layers: [layer]
       });
 
